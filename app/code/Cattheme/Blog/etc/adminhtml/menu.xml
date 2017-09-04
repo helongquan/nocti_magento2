@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Cattheme_Blog::elements" title="Blog" module="Cattheme_Blog" parent="Magento_Backend::content" sortOrder="10" resource="Cattheme_Blog::elements" />
+        <add id="Cattheme_Blog::post" title="Posts" module="Cattheme_Blog" parent="Cattheme_Blog::elements" sortOrder="10" action="blog/post" resource="Cattheme_Blog::post" />
+        <add id="Cattheme_Blog::category" title="Categories" module="Cattheme_Blog" parent="Cattheme_Blog::elements" sortOrder="20" action="blog/category" resource="Cattheme_Blog::category" />
+        <add id="Cattheme_Blog::import" title="Import" module="Cattheme_Blog" parent="Cattheme_Blog::elements" sortOrder="30" action="blog/import" resource="Cattheme_Blog::import" />
+    </menu>
+</config>
