@@ -1,0 +1,1 @@
+G:/Honest/software/xampp/htdocs/magento/vendor/magento/module-admin-notification/view/adminhtml/web/system/notification.js

@@ -1,0 +1,4 @@
+_website,_email,_entity_id,city,company,country_id,fax,firstname,lastname,middlename,postcode,prefix,region,region_id,street,suffix,telephone,vat_id,vat_is_valid,vat_request_date,vat_request_id,vat_request_success,_address_default_billing_,_address_default_shipping_
+base,roni_cost@example.com,1,Calder,,US,,Veronica,Costello,,49628-7978,,Michigan,0,"6146 Honey Bluff Parkway",,"(555) 229-3326",,,,,,1,1
+base,13927440553@163.com,4,深圳市,深圳市诺科帝科技有限公司,HK,,zhang,san,,518038,,广东省,0,"明治街道
+樟坑一区116栋602",,13927440553,,,,,,,1

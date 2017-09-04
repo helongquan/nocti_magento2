@@ -1,0 +1,1 @@
+G:/Honest/software/xampp/htdocs/magento/vendor/magento/module-catalog/view/frontend/web/js/view/compare-products.js
